@@ -1,0 +1,11 @@
+1	Chef
+2	Druide
+3	Barde
+4	Guerrier
+5	Chasseur
+6	Livreur de menhirs
+7	Facteur
+8	Poissonnière
+9	Serveuse
+
+^([0-9])\t([\w /è]+)$

@@ -1,0 +1,10 @@
+("BCN","Bouclier de Centurion",6);
+("BDN","Bouclier de Décurion",4);
+("BLE","Bouclier de Légionnaire",3);
+("BLT","Bouclier de Légat",10);
+("CCN","Casque de Centurion",3);
+("CDN","Casque de Décurion",2);
+("CLE","Casque de Légionnaire",1);
+("CLT","Casque de Légat",4);
+
+^([\w]+)\t([\w é]+)\t([\d]+)$

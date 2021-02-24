@@ -1,0 +1,8 @@
+(1,"Potion magique n°1","NULL","Gui");
+(2,"Potion magique n°2","4V3C2VA","Vin");
+(3,"Potion magique n°3","2C1B","Calva");
+(4,"Potion Zen","NULL","Jus de Betterave");
+(5,"Potion Anti Douleur","5C3J1T","Calva");
+
+
+^([1-9]+)\t([A-z °1-9]+)\t([\w ]+)\t([\w ]+)$

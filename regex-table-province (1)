@@ -1,0 +1,5 @@
+(1,"Armorique","Garovirus");
+(2,"Averne","Nenpeuplus");
+(3,"Aquitaine","Yenapus");
+
+^([0-9])\t([\w ]+)\t([\w ]+)$

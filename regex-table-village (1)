@@ -1,0 +1,10 @@
+(1,"Aquilona",52,1);
+(2,"Lutèce",25,2);
+(3,"Aginum",33,3);
+(4,"Calendes Aquae",42,2);
+(5,"Condate",38,1);
+(6,"Gergovie",55,3);
+(7,"Aquae Calidae",35,2);
+
+
+^([0-9]+)\t([\w \è]+)\t([0-9]+)\t([0-9]+)$

@@ -1,0 +1,24 @@
+(1,"Abraracourcix",65,1,1);
+(2,"Amnésix",56,2,7);
+(3,"Barometrix",68,2,3);
+(4,"Panoramix",79,2,1);
+(5,"Assurancetourix",53,3,1);
+(6,"Zérozérosix",75,2,4);
+(7,"Astérix",35,4,1);
+(8,"Bellodalix",32,4,7);
+(9,"Cétyounix",32,4,4);
+(10,"Homéopatix",48,5,6);
+(11,"Obélix",38,6,1);
+(12,"Plantaquatix",30,5,5);
+(13,"Moralélastix",67,1,2);
+(14,"Pneumatix",26,7,1);
+(15,"Pronostix",35,4,5);
+(16,"Goudurix",38,4,2);
+(17,"Océanix",40,5,5);
+(18,"Asdepix",53,1,5);
+(19,"Eponine",48,8,2);
+(20,"Falbala",26,9,1);
+(21,"Gélatine",65,NULL,6);
+(22,"Fanzine",21,NULL,3);
+
+^([0-9]+)\t([\w \é]+)\t([0-9]+)\t([A-z0-9]+)\t([0-9]+)$
